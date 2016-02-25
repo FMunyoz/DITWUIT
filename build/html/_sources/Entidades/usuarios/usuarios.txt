@@ -1,0 +1,32 @@
+.. index:: pair: Usuarios; Introducción
+
+Usuarios. Introducción
+----------------------
+.. image:: ../../images/Entidades/usuario.png  
+   :scale: 50%
+   :align: left  
+
+Por usuario nos referimos a toda persona que usa **DITWUIT**. En el caso concreto de un Almacén hay que centrarse en la forma de interactuar entre el usuario con el Almacén, utilizando diferentes herramientas bien informáticas o de manutención.
+
+En cada Flujo de Trabajo hay una intervención diferente dado que los usuarios que intervienen en los mismos procesos, actúan de manera distinta, unos realizando tareas directas con el sistema y otros realizando tareas de supervisión y seguimiento, según su perfil de trabajo.
+
+De los diferentes Perfiles de Trabajo podemos destacar:
+
+- Director de Logística.
+- Responsable Supply Chain 
+- Jefe de almacén.
+- Responsable de Turno y Gestión de Stock
+- Administrativo / Supervisor.
+- Control de calidad.
+- Operarios
+	- Validadores
+	- Ubicadores
+	- Reponedores
+	- Preparadores
+	- Expedidores
+	- Operario general
+- Administrador Informático
+
+Todos los accesos de los usuarios están construidos bajo los aspectos de seguridad necesarios (Auditoría, Autorización y Autenticación).
+
+

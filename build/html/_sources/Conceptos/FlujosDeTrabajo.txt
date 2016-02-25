@@ -1,0 +1,6 @@
+*****************
+Flujos de Trabajo
+*****************
+El Flujo de trabajo (workflow) es el estudio de los aspectos operacionales de una actividad de trabajo: cómo se estructuran las tareas, cómo se realizan, cuál es su orden correlativo, cómo se sincronizan, cómo fluye la información que soporta las tareas y cómo se le hace seguimiento al cumplimiento de las tareas.
+
+**DITWUIT** permite, debido a su estructura, definir los flujos de trabajo de las operaciones a realizar en los terminales de radiofrecuencia sin necesidad de programación, sólo con el conocimiento adecuado para su configuración.
